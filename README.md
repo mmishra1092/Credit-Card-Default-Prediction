@@ -24,4 +24,6 @@ Model Interpretability: Used SHAP to interpret our black-box model using force p
 
 # Our Model Summary
 
+Click Here to view Presentation in Pdf()
+
 Developed an XGBoost binary classifier to predict whether a customer will default on a loan and achieved the Recall scores of 84% on test data respectively. Basic data inspection by Exploratory Data Analysis using Matplotlib and Seaborn giving an in-depth intuition to the important features of our dataset. Missing value imputation using KNN-Imputer, implemented SMOTE boosting, and carried out hyperparameter tuning using RandomizedSearchCV.
